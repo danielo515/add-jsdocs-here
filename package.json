@@ -1,0 +1,31 @@
+{
+  "name": "add-jsdocs-here",
+  "version": "v0.1.0",
+  "private": false,
+  "description": "A wizar for adding jsdoc to any project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "add-jsdocs-here": "bin/runner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/danielo515/add-jsdocs-here.git"
+  },
+  "keywords": [
+    "jsdoc",
+    "case"
+  ],
+  "author": "Danielo Rodríguez Rivero <danielo@caseonit.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielo515/add-jsdocs-here/issues"
+  },
+  "homepage": "https://github.com/danielo515/add-jsdocs-here#readme",
+  "dependencies": {
+    "prompt-promise": "^1.0.3",
+    "shelljs": "^0.7.4"
+  }
+}
