@@ -1,5 +1,7 @@
 # Add jsdocs here
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/danielo515/add-jsdocs-here.svg)](https://greenkeeper.io/)
+
 Simple npm package that adds the required files and configurations to generate
 documentation using [jsdoc3](http://usejsdoc.org/).
 
